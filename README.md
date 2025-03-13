@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avadh</h1>
 <h3 align="center">A passionate AI and DATA SCIENCE developer</h3>
 
-- 🔭 I’m currently working on [Plant Health Classification](https://github.com/Avadh-Ladani-0/Plant-health-Classification)
+- 🔭 I’m currently working on [AI-based Order taking system](https://github.com/Avadh-Ladani-0/Automated_Order_taking_with_LLM)
 
 - 🌱 I’m currently learning **docker, postman, aws**
 
